@@ -1,8 +1,15 @@
 # test-loopback
 
-Para iniciar el proyecto escribir:
+Para descargar dependencias escribir:
 ```
 npm install
 
-node .
+bower install angular angular-resource angular-ui-router
 ```
+
+Para iniciar el proyecto:
+```
+node .
+
+```
+
